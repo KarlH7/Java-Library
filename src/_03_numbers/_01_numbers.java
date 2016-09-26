@@ -22,7 +22,37 @@ public class _01_numbers {
 		
 			twelve = ten + 2;
 		
-			System.out.println("twelve = "+ twelve);
+	//		System.out.println("twelve = "+ twelve);
+		
+		byte b1 = 122;
+		byte b2 = 6;
+		byte b3 = b1 = b2;
+		
+		int s1=0, s2=2, s3=3;
+		
+		s1 = s2 + s3;
+		
+		System.out.println("s1 = "+ s1);		
+			
+		
+		
+		
+		System.out.println("b3 = "+ b3);
+		
+		float housePayment = 100.99f;
+		
+		Long creditCardNumber = 1234_5678_9012_3456L;
+		
+		String lastFourdidgets="";
+		
+	//	String creditCardNumber.toString();
+		
+		
+		System.out.println("b3 = "+ b3);
+		
+		
+		
+		
 		
 		
 		

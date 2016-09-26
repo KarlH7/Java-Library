@@ -86,7 +86,13 @@ Here's how the structure of your project will look.
 	    		-> TODO: Show examples of various math operators(hint, we studied these last week).
 	    		-> TODO: Include examples of shorthand operators.
 	    	_03_demo_story.java
-	    		-> TODO: Go to the following url -> https://repl.it/DhOp/1. Copy and paste the code into this file and run it. 
+	    		-> TODO: Go to the following url -> https://repl.it/DhOp/1. Copy and paste the code into this file and run it.
+	    		
+	    		
+	    		
+	    		
+	    		
+	    		 
 	    		-> TODO: Read and analyze the code and make sure you understand it. 
 	    	_04_challenge_story.java
 	    		-> TODO: Create a story using math operators. 
@@ -269,7 +275,17 @@ Here's how the structure of your project will look.
 			_01_assessment_questions.java
 				//TODO: Leave this blank for now.
 					
-			
+use the characters below as the \\ example form james			
+
+\t  Inserts a tab in the text at this point.
+\b  Inserts a backspace in the text at this point.
+\n  Inserts a newline in the text at this point.
+\r  Inserts a carriage return in the text at this point.
+\f  Inserts a form feed in the text at this point.
+\'  Inserts a single quote character in the text at this point.
+\" Inserts a double quote character in the text at this point.
+\\  Inserts a backslash character in the text at this point.
+
 
 
 
