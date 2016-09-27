@@ -70,6 +70,8 @@ public class _06_operaters {
 			
 			
 			
+			String password = "letmein";
+	//		if(password.equals("letMeIn")
 			
 			
 			

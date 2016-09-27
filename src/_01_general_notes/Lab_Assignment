@@ -11,6 +11,7 @@ SWBAT(Student will be able to):
 	
 PART I - ALL TOGETHER
 1. File -> new -> project
+
 2. Name it Java-151-Primer -> Finish
 3. Right click on src.
 4. Create a new package. Call it _01_General_Notes
@@ -67,7 +68,7 @@ Here's how the structure of your project will look.
 /**************************************Be Sure to commit your code********************************/
 
 		>_02_HelloWorld                   This is a Package
-			_01_HelloWorld.java                this is a New Java Project   
+			_01_HelloWorld.java                this is a New Java Project a Class ?  
 			
 				-> TODO: Figure out how to do a Hello World in Eclipse using Java.
 				-> TODO: In that same file, figure out how to print Hello World to the console in a couple ways.
@@ -75,6 +76,8 @@ Here's how the structure of your project will look.
 									#1 Hello World
 									#2 Hello ->This will use a different method than #1.
 									   World
+
+
 
 /**************************************Be Sure to commit your code********************************/
 

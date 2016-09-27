@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class _03_char {
 
@@ -59,9 +60,24 @@ public class _03_char {
 		System.out.println("\"  " + "James \"Paul");
 		System.out.println("\\ " + "James \\Paul");
 		
+		System.out.println();
+		System.out.println("f " + "Hello \fWorld");
 		
 		
+		int xx = 3;
 		
+		xx = xx * xx;
+		System.out.println("xx = " + xx);
+		
+				
+		String str1 = "Car";
+		String str2 = "Truck";
+		String str3 = "Bike";
+		
+		System.out.println(str1.equals(str1));
+		
+		
+
 		
 	}
 
