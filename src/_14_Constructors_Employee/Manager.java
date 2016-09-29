@@ -2,6 +2,7 @@ package _14_Constructors_Employee;
 
 public class Manager extends Employee{
 	
+	//properties
 	Manager(String name, double salary, int startYear, int birthYear) {
 		super(name, salary, startYear, birthYear); // modifies Properties
 		this.department = department;
