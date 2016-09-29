@@ -1,6 +1,6 @@
 package _080_DataCollection;
 
-public class _o1_Array {
+public class _01_Array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

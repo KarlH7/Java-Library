@@ -53,7 +53,7 @@ public class _02_for_loop {
 		
 		System.out.println();
 				
-		//
+		//count the spaces in this string
 		
 		String spaces = "There are spaces in this string";
 		int numSpaces = 0;
