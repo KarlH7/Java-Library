@@ -7,12 +7,23 @@ public class _01_Array {
 
 		
 		String name = "Paul";
+		
 		String [] names = {"Paul","Sydney", "John", "Amanda"};
 		
-		System.out.println(names[0]);
-		System.out.println(names[1]);
-		System.out.println(names[2]);
-		System.out.println(names[3]);
+		for(int i=0; i < names.length; i++) {
+			
+			System.out.println(names[i]);
+	//		System.out.println(i);
+		}
+		
+		System.out.println();
+		
+		
+		
+//		System.out.println(names[0]);
+//		System.out.println(names[1]);
+//		System.out.println(names[2]);
+//		System.out.println(names[3]);
 		
 		System.out.println();
 		

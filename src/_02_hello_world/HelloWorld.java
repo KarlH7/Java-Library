@@ -1,6 +1,10 @@
 package _02_hello_world;
 
+import _17_Encapsulation.ColtsPlyares;
+
 public class HelloWorld 
+
+
 {
 	public static void main(String[] args)
 	{
@@ -10,7 +14,8 @@ public class HelloWorld
 		
 		//TODO  HERE'S ANOTHER NOTE
 	
-	
+	ColtsPlyares aCastonzo = new ColtsPlyares();
+	aCastonzo.
 	
 	
 	}

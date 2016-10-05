@@ -77,6 +77,39 @@ public class _02_for_loop {
 		
 		
 		
+////		class Main {
+////			  public static void main(String[] args) {
+//			    
+//			    //TODO 
+//			    //Create a for loop, make it start at 0 and go to 50
+//			    //Use Modulus Math for this exercise
+//			    //if the number is divisible by 3 and 5 print Fizz Buzz
+//			    //if the number is divisible by 3 print Fizz
+//			    //if the number is divisible by 5 print Buzz
+//			    //if the number is NOT divisible by 3 or 5 continue
+//			    
+//			    for (int i = 0; i <= 20; i++) {
+//			    	if (i < 12) {
+//			    		System.out.println(i);
+//			 //   			System.out.println("Fizz Buzz " + i);
+//			    		} else if (i == 12) {
+//			    			System.out.println("Twelve ");
+//			    		} else if (i > 12) {
+//			    			System.out.println(i);
+//			    		} else  {
+//			    			continue;
+//			    		}	
+//			    	}
+//			    }
+//			    
+//			}	
+
+
+		
+	
+		
+		
+		
 	}
 
 }

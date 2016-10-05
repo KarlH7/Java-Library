@@ -32,8 +32,7 @@ public class Main {
 	pixie.numTeeth = 17;
 	pixie.habitat = "House";
 	
-	
-	
+
 	
 	pixie.getPrintName();
 
@@ -44,11 +43,6 @@ public class Main {
 	
 	
 	
-	
-	
-	
-	
-	
-	
 	}
 }
+					
